@@ -11,6 +11,7 @@
   String text1 = request.getParameter("text1");
   String text2 = request.getParameter("text2");
   String text3 = request.getParameter("text3");
+  String text4 = request.getParameter("text4");
   String options1 = request.getParameter("options1");
   String options2 = request.getParameter("options2");
   String options3 = request.getParameter("options3");
@@ -36,7 +37,8 @@
   <br>
   name: <%=text1%> <br/>
   age: <%=text2%> <br/>
-  RC: <%=text3%> <br/>
+  number: <%=text3%> <br/>
+  RC: <%=text4%> <br/>
   male: <%=options1%> <br/>
   female: <%=options2%> <br/>
   grade: <%=options3%> <br/>

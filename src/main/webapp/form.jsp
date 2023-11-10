@@ -30,7 +30,7 @@
         <br>
 
         <label for="text">RC:</label>
-        <input type="text" id="text" name="text2" placeholder="RC를 입력하세요" required>
+        <input type="text" id="text" name="text4" placeholder="RC를 입력하세요" required>
         <br>
 
         <!-- Radio Buttons -->
